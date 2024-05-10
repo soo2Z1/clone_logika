@@ -1,3 +1,4 @@
+
 body {
     background: 
     url("https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/a02afa2792b8778d69101554fa0fbadd.png") no-repeat 32% 3%
@@ -287,3 +288,37 @@ a{
      margin-left: 650px;
 }
 
+.gr{
+    height: 600px;
+    width: 1600px;
+    margin-right:0px ;
+    margin-left:0px ;
+}
+
+.button_5{
+    background-color: rgb(97, 201, 12);    
+    padding-left:115px ;
+    padding-right: 115px;
+    padding-top: 0.5px;
+    padding-bottom: 1px;
+    height: auto;
+    font-size: medium;  
+    border-bottom:4px solid #52aa00;
+    border-top:1px solid rgb(97, 201, 12) ;
+    border-left:1px solid rgb(97, 201, 12) ;
+    border-right:1px solid rgb(97, 201, 12) ;
+    border-radius: 0px;
+}
+
+.button_5:hover{
+    background-color:#6bdd00;
+}
+
+.dj{
+     color: rgb(255, 255, 255);  
+     margin-left: 48px;
+}   
+
+.ap{
+    margin-right: 3px;
+}
